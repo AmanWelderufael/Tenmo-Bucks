@@ -1,0 +1,5 @@
+2022-07-08T11:21:35.0867016 401 : [no body]
+2022-07-08T11:54:05.0883283 500 : [{"timestamp":"2022-07-08T15:54:05.072+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (616 bytes)]
+2022-07-08T11:54:47.520897 500 : [{"timestamp":"2022-07-08T15:54:47.518+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (616 bytes)]
+2022-07-08T11:55:07.6610408 500 : [{"timestamp":"2022-07-08T15:55:07.661+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (616 bytes)]
+2022-07-08T11:55:38.6757698 500 : [{"timestamp":"2022-07-08T15:55:38.675+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (684 bytes)]

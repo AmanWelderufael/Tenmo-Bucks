@@ -1,0 +1,3 @@
+2022-07-09T20:17:49.8284824 400 : [{"timestamp":"2022-07-10T00:17:49.781+00:00","status":400,"error":"Bad Request","message":"Validation failed for object='registerUserDTO'. Error count: 2","errors":[{"codes":["NotEmpty.registerUserDTO... (947 bytes)]
+2022-07-09T20:35:24.2316655 401 : [no body]
+2022-07-09T21:07:04.2163085 500 : [{"timestamp":"2022-07-10T01:07:04.201+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO transfer(transfer_type_id, transfer_status_id, account_... (616 bytes)]
